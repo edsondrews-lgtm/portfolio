@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "slug": "2025-03-10-abertura-semestre",
+      "title": "Abertura do Semestre 2025/1",
+      "date": "2025-03-10",
+      "location": "UNOESC",
+      "group": "Aula Inaugural",
+      "description": "Exemplo",
+      "previewPhotos": [
+        {
+          "file": "01.jpg",
+          "caption": "Exemplo"
+        }
+      ]
+    }
+  ]
+}
